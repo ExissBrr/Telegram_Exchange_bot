@@ -1,2 +1,2 @@
-TOKEN_bot = "1751881610:AAFmrKRrp0Gmv59EQog09jsT9DMnU22UeHk"
-token_exchange = "55f965b9e0dba230b42830287b8cc6a1"
+TOKEN_bot = your_token_bot
+token_exchange = exchange_bot
